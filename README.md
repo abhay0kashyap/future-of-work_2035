@@ -11,7 +11,7 @@ This project is built as part of a learning + experimentation initiative to unde
 
 The world of work is changing faster than ever. By 2035:
 
-- Many traditional jobs will evolve or disappear  
+- Many of traditional jobs will evolve or disappear  
 - New roles will emerge due to AI, robotics, and automation  
 - Skills will matter more than degrees  
 - Remote, hybrid, and decentralized work will become normal  
